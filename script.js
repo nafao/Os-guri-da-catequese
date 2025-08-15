@@ -3,17 +3,17 @@ const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
-
+&
 const perguntas = [
     {
-        enunciado: "pergunta deve ser escrita aqui",
-        alternativas: [
+        enunciado: perguntas sobre Desafios e Oportunidades na faculdade ,
+        alternativas:[
             {
-                texto: "alternativa letra A deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra A deve estar aqui "
+                texto: Qual é um dos principaisdesafiosque os estudantes enfrentam na faculdade?,
+                afirmacao: " "
             },
             {
-                texto: "alternativa letra B deve ser escrita aqui",
+                texto: qual é uma oportunidade que a faculdade oferece para os estudantes?,
                 afirmacao: "Afirmação gerada se a pessoa escolher a letra B deve estar aqui "
             }
         ]
